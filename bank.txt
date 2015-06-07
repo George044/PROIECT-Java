@@ -1,0 +1,1 @@
+{"customers":[{"firstName":"Cipri","lastName":"Ceve","accounts":[{"balance":200.0}]}]}
